@@ -6,7 +6,7 @@ Thanks for your time to visit my project.
 - List of Monsters
 - Detail Information
 
-## Feature Roadmap
+## Roadmap
 The following features are planned for future development:
 - More variety of other Monsters (include Small Monsters)
 - Monster Material Drops
